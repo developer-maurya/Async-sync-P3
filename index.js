@@ -15,17 +15,17 @@ setTimeout(function () {
 
 // // constructor
 
-// // type of two constructor
+// type of two constructor
 // // 1. class constructor
 
-// // class Home {
-// //     constructor(vill,city,state) {
-// //         this.city=city
-// //         this.state=state
-// //         this.vill=vill
+ class Home {
+     constructor(vill,city,state) {
+      this.city=city
+        this.state=state
+        this.vill=vill
         
-// //     }
-// // }
+    }
+ }
 
 // // const add = new Home ("bahuara","gorari","bihar")
 
@@ -96,4 +96,5 @@ chk.then(function(){
     
 
 })
+
 
