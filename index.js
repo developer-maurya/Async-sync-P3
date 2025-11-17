@@ -6,12 +6,12 @@
 // // asynchronous
 
  console.log("hello");
-// // setTimeout(function () {
-// // console.log("he1");
+setTimeout(function () {
+ console.log("he1");
 
-// // },2000)
+ },2000)
 
-// // console.log("he2");
+ console.log("he2");
 
 // // constructor
 
@@ -96,3 +96,4 @@ chk.then(function(){
     
 
 })
+
