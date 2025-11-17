@@ -1,11 +1,11 @@
 // // synchronous
-// // console.log("hii");
-// // console.log("hello1");
-// // console.log("hello2")
+ console.log("hii");
+ console.log("hello1");
+ console.log("hello2")
 
 // // asynchronous
 
-// // console.log("hello");
+ console.log("hello");
 // // setTimeout(function () {
 // // console.log("he1");
 
@@ -94,4 +94,5 @@ chk.then(function(){
 .catch(function(){
     console.log("above");
     
+
 })
